@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student at the TU Dublin, advised by Dympna O’Sullivan, Lucy Hederman and Robert Ross.
+I am a second-year PhD student at TU Dublin, advised by Dympna O’Sullivan, Lucy Hederman and Robert Ross.
 
 My research interests lie in the area of Learning and Language Technologies, Human-Computer Interaction, Cognitive Science, and Technology Design.
 
