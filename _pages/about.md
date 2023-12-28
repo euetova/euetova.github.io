@@ -19,7 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a second-year PhD student at TU Dublin, advised by Dympna O’Sullivan, Lucy Hederman and Robert Ross.
 
-My research interests lie in the area of Learning and Language Technologies, Human-Computer Interaction, Cognitive Science, and Technology Design.
+My research interests lie in the areas of Linguistics, Human-Computer Interaction, Behavior Change, and Computer Science. 
+
+Currently, I am working on a study aimed at decreasing sedentary behavior in the workplace. I am investigating one of the features—a peer support group chat—and planning on modeling a multi-party turn-taking chatbot.
 
 Prior to my PhD, I have completed a Bachelor’s degree and a Master’s degree in General and Computational Linguistics at the National Research University Higher School of Economics.
 
